@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	defaultPrefix string = ""
+	defaultPrefix string = "/debug/pprof"
 )
 
 // RouterpprofRegister for treemux
